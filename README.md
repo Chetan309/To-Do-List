@@ -23,7 +23,7 @@ A simple To-Do List application that helps users manage their tasks efficiently.
 4. Click the delete icon to remove a task from the list.
 
 
-*Contributions are welcome! Feel free to fork this repository and submit pull requests.*
+**Contributions are welcome! Feel free to fork this repository and submit pull requests.**
 
 
 ## Contact
